@@ -1,0 +1,7 @@
+﻿  dllmain.cpp
+D:\Users\ssj6r\source\repos\keylogger_dll\keylogger_dll\dllmain.cpp(8,1): warning C4005: 'UNICODE': 巨集重複定義
+D:\Users\ssj6r\source\repos\keylogger_dll\keylogger_dll\pch.cpp : message : 請參閱 'UNICODE' 之前的定義
+D:\Users\ssj6r\source\repos\keylogger_dll\keylogger_dll\dllmain.cpp(221,6): warning C4273: 'printChar': 不一致的 DLL 連結
+D:\Users\ssj6r\source\repos\keylogger_dll\keylogger_dll\Header.h(9,29): message : 請參閱 'printChar' 之前的定義
+     正在建立程式庫 D:\Users\ssj6r\source\repos\keylogger_dll\x64\Debug\keylogger_dll.lib 和物件 D:\Users\ssj6r\source\repos\keylogger_dll\x64\Debug\keylogger_dll.exp
+  keylogger_dll.vcxproj -> D:\Users\ssj6r\source\repos\keylogger_dll\x64\Debug\keylogger_dll.dll
